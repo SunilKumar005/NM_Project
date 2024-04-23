@@ -1,1 +1,1 @@
-###Generation of Handwritten Digits With GAN Using MNIST Dataset
+# Generation of Handwritten Digits With GAN Using MNIST Dataset
